@@ -15,4 +15,4 @@ Prepared by Sonic Solve · April 2026 · Confidential
 
 **Signers:** Jesse Rodriguez · Glinda Pacheco
 
-[Open Document](https://sonicsolve.github.io/TeleProClient/telepro-phase4-scope-confirmation_9.html)
+[Open Document](https://sonicsolve.github.io/TeleProClient/telepro-phase4-scope-confirmation_10.html)
